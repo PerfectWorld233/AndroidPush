@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidEXE\\AndroidPush\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\androidEXE\\AndroidPush\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\androidEXE\\AndroidPush\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\androidEXE\\AndroidPush\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]

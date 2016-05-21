@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\androidEXE\AndroidPush\app\src\main\wmqtt.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc86f8fb0a55738adc56d1a3320d39a5b71fb04c">
+        <dex dex="D:\androidEXE\AndroidPush\app\build\intermediates\pre-dexed\debug\wmqtt_9e63a8b46addd80ed45977efddb9a932f7ff053f.jar" />
+    </item>
+
+</items>
